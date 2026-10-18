@@ -1,0 +1,17 @@
+{
+  "enabled": true,
+  "username": "admin",
+  "password_hash": "",
+  "jwt_secret": "",
+  "trusted_networks": [
+    "127.0.0.0/8",
+    "::1/128",
+    "192.168.0.0/16"
+  ],
+  "trust_local_ipv6_prefix": false,
+  "remember_ttl_hours": 168,
+  "short_ttl_hours": 12,
+  "max_failures": 5,
+  "failure_window_minutes": 5,
+  "password": ""
+}
